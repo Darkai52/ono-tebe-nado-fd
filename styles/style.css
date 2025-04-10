@@ -196,11 +196,7 @@
     color: white;
     letter-spacing: 100%;
     word-spacing: 18.5px;
-    width: 637px;
-    height: 28px;
-    top: 668px;
-    left: 50px;
-    margin-bottom: -10px;
+    margin-bottom: 7px;
     margin-left: 3px;
 }
 
@@ -217,12 +213,11 @@
     border: 1px solid white;
     width: 270px;
     height: 51px;
-    top: 656px;
-    left: 794px;
     border-width: 1px;
     margin-bottom: 10px;
     margin-top: -3px;
     margin-left: -40px;
+    
 }
 
 .lots {
